@@ -459,3 +459,18 @@ footer small {
       width: 80%;
   }
   }
+
+
+
+  /* ------------------------------------------------------------------------
+* スクロールアニメーション
+-------------------------------------------------------------------------- */
+.effect-fade {
+	opacity: 0;
+	transform: translate(0, 45px);
+	transition: all 2.0s;
+}
+.effect-fade.effect-scroll {
+	opacity: 1;
+	transform: translate(0, 0);
+}
