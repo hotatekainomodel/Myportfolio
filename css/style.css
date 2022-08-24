@@ -337,3 +337,16 @@ img {
 	margin-top: 30px;
 	width: 30%;
 }
+/* ------------------------------------------------------------------------
+* フッター
+-------------------------------------------------------------------------- */
+footer {
+	background-color: #fff;
+	color: #000;
+}
+footer small {
+	display: block;
+	text-align: center;
+	font-size: 12px;
+	padding: 20px;
+}
