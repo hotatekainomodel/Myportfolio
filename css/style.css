@@ -96,7 +96,8 @@ figure {
 }
 
 .card-content img {
-  width: 100%;
+  width: 300px;
+  height: 200px;
 }
 
 
